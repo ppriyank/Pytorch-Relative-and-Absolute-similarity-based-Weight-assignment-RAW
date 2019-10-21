@@ -5,8 +5,8 @@ class RAW_LOSS(nn.Module):
         super(RAW_LOSS, self).__init__()
         self.use_gpu = use_gpu
         self.alpha = alpha
-  		self.beta = beta
-  		self.gamma = gamma
+  	self.beta = beta
+  	self.gamma = gamma
 
 
     def forward(self, x, labels):
