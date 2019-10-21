@@ -11,7 +11,7 @@ https://openreview.net/pdf?id=Skf5qiC5KQ
 
 ## Use :
 ```
-
+from raw import RAW_LOSS
 raw = RAW_LOSS(alpha=0.1, beta=0.1, gamma = 0.1, use_gpu=use_gpu)
 if use_gpu:
     imgs, pids = imgs.cuda(), pids.cuda()
