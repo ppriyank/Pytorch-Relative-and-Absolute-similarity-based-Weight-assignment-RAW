@@ -1,8 +1,8 @@
 # Pytorch-Relative-and-Absolute-similarity-based-Weight-assignment-RAW
 Pytorch Implementation of the Paper A UNIFIED VIEW OF DEEP METRIC LEARNING VIA GRADIENT ANALYSIS
  
-A UNIFIED VIEW OF DEEP METRIC LEARNING VIA GRADIENT ANALYSIS
-*Anonymous authors  
+A UNIFIED VIEW OF DEEP METRIC LEARNING VIA GRADIENT ANALYSIS  
+*Anonymous authors    
 Paper under double-blind review*
 
 https://openreview.net/pdf?id=Skf5qiC5KQ
