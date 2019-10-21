@@ -22,10 +22,10 @@ https://openreview.net/pdf?id=Skf5qiC5KQ
 
 ### where :
 ### * Relative similarity between the positive pair:
-   ![pos_sim](https://github.com/ppriyank/Pytorch-Relative-and-Absolute-similarity-based-Weight-assignment-RAW/blob/master/Screen%20Shot%202019-10-21%20at%203.24.26%20AM.png){:height="50%" width="50%"}
+   ![pos_sim](https://github.com/ppriyank/Pytorch-Relative-and-Absolute-similarity-based-Weight-assignment-RAW/blob/master/Screen%20Shot%202019-10-21%20at%203.24.26%20AM.png&s=100)
 
 ### * Absolute similarity
-   ![abs_sim](https://github.com/ppriyank/Pytorch-Relative-and-Absolute-similarity-based-Weight-assignment-RAW/blob/master/Screen%20Shot%202019-10-21%20at%203.27.02%20AM.png){:height="50%" width="50%"}
+   ![abs_sim](https://github.com/ppriyank/Pytorch-Relative-and-Absolute-similarity-based-Weight-assignment-RAW/blob/master/Screen%20Shot%202019-10-21%20at%203.27.02%20AM.png&s=100)
     
     
 ## Gradient Equivalent Loss function 
