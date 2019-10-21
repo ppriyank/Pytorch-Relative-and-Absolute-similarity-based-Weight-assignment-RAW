@@ -8,6 +8,20 @@ Paper under double-blind review*
 https://openreview.net/pdf?id=Skf5qiC5KQ
 
 
+
+## Use :
+```
+
+raw = RAW_LOSS(alpha=0.1, beta=0.1, gamma = 0.1, use_gpu=use_gpu)
+if use_gpu:
+    imgs, pids = imgs.cuda(), pids.cuda()
+imgs, pids = Variable(imgs), Variable(pids)
+outputs, features = model(imgs)
+
+loss = raw(features, pids)
+```
+
+
 ## Intution
 * Hardest positive: The postive label example which has the max cosine similarity 
 * Hardest negative: The negative example which has the min cosine similarity 
