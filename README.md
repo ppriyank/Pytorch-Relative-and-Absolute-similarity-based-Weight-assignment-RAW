@@ -14,7 +14,8 @@ https://openreview.net/pdf?id=Skf5qiC5KQ
 * Valid Positive Examples : The postive label examples which have smaller cosine distance compared to Hardest negative : P
 * Valid Negative Examples : The negative label examples which have smaller cosine distance compared to Hardest positive : N
 
-![Visualization](https://github.com/ppriyank/Pytorch-Relative-and-Absolute-similarity-based-Weight-assignment-RAW/blob/master/Screen%20Shot%202019-10-21%20at%203.11.28%20AM.png)
+   <img src="https://github.com/ppriyank/Pytorch-Relative-and-Absolute-similarity-based-Weight-assignment-RAW/blob/master/Screen%20Shot%202019-10-21%20at%203.11.28%20AM.png" width="400">
+
 
 ## Weight : 
 
